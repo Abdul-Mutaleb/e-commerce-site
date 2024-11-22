@@ -1,0 +1,36 @@
+0. https://adminkit.io/#download(tamplete view)
+1.insall Laravel
+2.install breeze
+3.Create view file and Route for Each Role
+4.Go to AuthenticatedSessionController File and Change Redirect After Login Based On user Role
+5.Create and Modify Middleware
+6.Go inside Bootstrap-> App and declare middleware
+7.Add Middleware to Routes
+--------------------------------------------------
+Admin panel
+
+1.ceate category 
+2.manage category page
+3crate sub category page 
+4.manage sub category page
+5.manage product
+6.manage product Review
+7. order review
+8.manage and order Atribute 
+9.manage cart History
+10. manage user
+11.manage seller
+12.stats
+13.manage store
+14.setting
+15.create Discount 
+16.manage Discount
+17.manage payment option
+
+----------------------------------------------------
+Seller Panel
+1.Dashboard start
+2.Create Store
+3.Manage Store
+4.Create Product
+6.Order History
